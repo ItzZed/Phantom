@@ -1,2 +1,2 @@
 # Phantom
-Phantom Engine
+Phantom Discord Bot
